@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ASUM output directories (generated frames and data)
+universe_v*/
+test_*/
+2026*/
+
+# Large media files (keep only assets/ directory)
+*.mp4
+*.wav
+*.m4a
+*.mp3
+!assets/*.mp4
+
+# Kiro internal
+.kiro/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
