@@ -54,3 +54,14 @@ test_*/
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
+
+# Temporary/log files
+*.log
+*.txt
+*.docx
+*.zip
+
+# Original unorganized directories (content moved to organized structure)
+早期版本/
+资料/
+量子与术数/
