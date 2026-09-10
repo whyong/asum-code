@@ -57,9 +57,9 @@ test_*/
 
 # Temporary/log files
 *.log
-*.txt
 *.docx
 *.zip
+universe_v10_t011_output.txt
 
 # Original unorganized directories (content moved to organized structure)
 早期版本/
